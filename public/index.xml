@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> – My Docs</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in My Docs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Mar 2025 13:13:24 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 14:40:54 +0800</lastBuildDate>
     
-	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
       
