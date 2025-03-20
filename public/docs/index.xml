@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> – Docs</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Docs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Mar 2025 13:13:24 +0800</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/blog/test/</link>
+      <pubDate>Wed, 19 Mar 2025 15:40:53 +0800</pubDate>
+      
+      <guid>//localhost:1313/blog/test/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Blog 測試&lt;/h1&gt;&lt;h2&gt;h2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;h2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#h2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;一一一&lt;/li&gt;
+&lt;li&gt;二二二&lt;/li&gt;
+&lt;li&gt;三三三&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;h3&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;h3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#h3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;123&lt;/li&gt;
+&lt;li&gt;456&lt;/li&gt;
+&lt;li&gt;789&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;h4&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;h4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#h4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;粗體&lt;/strong&gt;
+&lt;em&gt;斜體&lt;/em&gt;
+&lt;del&gt;刪除線&lt;/del&gt;&lt;/p&gt;
+&lt;h5&gt;h5&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;h5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#h5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;超連結&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
