@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> – Docs</title>
+    <title> – Archive</title>
     <link>//localhost:1313/docs/</link>
-    <description>Recent content in Docs on </description>
+    <description>Recent content in Archive on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Mar 2025 13:13:24 +0800</lastBuildDate>
@@ -14,6 +14,231 @@
         
       
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/blog/my-first-post/</link>
+      <pubDate>Tue, 08 Jul 2025 12:24:53 +0800</pubDate>
+      
+      <guid>//localhost:1313/blog/my-first-post/</guid>
+      <description>
+        
+        
+        &lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;你為什麼應該在乎量子運算？&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因為它可能改變我們處理資訊的方式，就像電腦曾經做的一樣。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎯 什麼是量子運算？&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-什麼是量子運算&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-%e4%bb%80%e9%ba%bc%e6%98%af%e9%87%8f%e5%ad%90%e9%81%8b%e7%ae%97&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;量子運算是一種利用&lt;strong&gt;量子力學現象&lt;/strong&gt;（像是疊加與糾纏）來進行資訊處理的方法。傳統電腦使用位元（0 或 1），而量子電腦使用&lt;strong&gt;量子位元（qubits）&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;→ [試著思考這個問題]&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;傳統電腦的 8 位元有幾種可能狀態？量子電腦的 8 qubits 呢？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;🌀 疊加：一種「同時是」的狀態&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-疊加一種同時是的狀態&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-%e7%96%8a%e5%8a%a0%e4%b8%80%e7%a8%ae%e5%90%8c%e6%99%82%e6%98%af%e7%9a%84%e7%8b%80%e6%85%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;一個 qubit 不只是 0 或 1。它可以是 0 和 1 的「疊加」狀態。&lt;/p&gt;
+&lt;p&gt;這不像擲硬幣。擲硬幣是「未知」，疊加是「同時存在」。&lt;/p&gt;
+&lt;p&gt;→ [想一想]&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;如果你有兩個 qubits，每個都在疊加狀態，整個系統有幾種狀態的組合？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔗 糾纏：遠距離的聯繫&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-糾纏遠距離的聯繫&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-%e7%b3%be%e7%ba%8f%e9%81%a0%e8%b7%9d%e9%9b%a2%e7%9a%84%e8%81%af%e7%b9%ab&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;兩個 qubits 可以彼此「糾纏」，意味著對一個 qubit 的測量會立刻影響另一個，即使它們相隔遙遠。&lt;/p&gt;
+&lt;p&gt;這不是魔法，是量子物理。&lt;/p&gt;
+&lt;p&gt;→ [挑戰自己]&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;為什麼愛因斯坦稱這現象是「幽靈般的遠距作用」？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔧 量子邏輯閘：不是你習慣的邏輯&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-量子邏輯閘不是你習慣的邏輯&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-%e9%87%8f%e5%ad%90%e9%82%8f%e8%bc%af%e9%96%98%e4%b8%8d%e6%98%af%e4%bd%a0%e7%bf%92%e6%85%a3%e7%9a%84%e9%82%8f%e8%bc%af&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在經典電腦中，邏輯閘（如 AND, OR, NOT）是處理資訊的基礎。&lt;/p&gt;
+&lt;p&gt;在量子運算中，我們有 Hadamard 閘、CNOT 閘、相位閘……它們操作的是 qubits 的&lt;strong&gt;機率振幅&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;→ [問問自己]&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;一個 Hadamard 閘如何影響 qubit 的狀態？它跟「亂數」有什麼關係？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎓 Andy Matuschak 的風格學習提示&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-andy-matuschak-的風格學習提示&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-andy-matuschak-%e7%9a%84%e9%a2%a8%e6%a0%bc%e5%ad%b8%e7%bf%92%e6%8f%90%e7%a4%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;問自己問題，不只是讀一遍。&lt;/li&gt;
+&lt;li&gt;嘗試用你自己的話解釋一個概念。&lt;/li&gt;
+&lt;li&gt;主動預測：下一個段落會講什麼？&lt;/li&gt;
+&lt;li&gt;如果卡住了，不要跳過，停下來想清楚。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧠 延伸學習資源&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-延伸學習資源&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-%e5%bb%b6%e4%bc%b8%e5%ad%b8%e7%bf%92%e8%b3%87%e6%ba%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://quantum.country/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quantum Country&lt;/a&gt; — 由 Andy Matuschak 和 Michael Nielsen 製作的記憶輔助學習網站&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.quantamagazine.org/tag/quantum-computing/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quanta Magazine - Quantum Computing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;書籍推薦：《量子計算與量子資訊》（Nielsen &amp;amp; Chuang）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;想像一下：有一天，你的手機可能會有量子處理器。你會怎麼使用它？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>HUGO的起源</title>
+      <link>//localhost:1313/blog/post-2/</link>
+      <pubDate>Fri, 21 Mar 2025 16:53:51 +0800</pubDate>
+      
+      <guid>//localhost:1313/blog/post-2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Hugo 是一個用Go 語言編寫的靜態網站生成器，它以其速度和靈活性而聞名。&lt;/p&gt;
+&lt;p&gt;Hugo 的作者是弗朗西亞（Steve Francia）和後來的彼得森（Bjørn Erik Pedersen）。 他們是Hugo 這個靜態網站生成器的主要貢獻者。&lt;/p&gt;
+&lt;p&gt;Bjørn Erik Pedersen的 Twitter/𝕏&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://x.com/bepsays/with_replies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://x.com/bepsays/with_replies&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HUGO缺點總結:
+模板不可隨意切換
+hugo因為有非常強的靈活擴充功能,專案配置可隨意自訂,markdown 檔案的 frontmatter可以隨意.
+自訂。導致多數模板特殊化,每使用一套模板,都要學習模板的特殊變量,特殊用法。還是學習成本非常高。&lt;/p&gt;
+&lt;p&gt;缺點總結
+建官網靜態站,不如直接html建站。
+建內容管理動態站,不如現成論壇,wordpress等項目,使用簡單,維護簡單。
+模板還不能隨意切換,那它到底有什麼優點?
+它學習成本高?
+它後期新增內容難?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>台灣股市盤勢解說 (2025年3月20日)</title>
+      <link>//localhost:1313/blog/20250320/</link>
+      <pubDate>Thu, 20 Mar 2025 14:40:54 +0800</pubDate>
+      
+      <guid>//localhost:1313/blog/20250320/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;大盤綜述&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;大盤綜述&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%a4%a7%e7%9b%a4%e7%b6%9c%e8%bf%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;今日（2025年3月20日），台股在美股大漲的帶動下呈現強勢反彈。加權指數開盤即跳空上漲逾300點，順利突破22,299點，漲幅達1.54%。這波反彈主要受到國際市場氛圍轉佳及台積電等權值股表現亮眼的推動。&lt;/p&gt;
+&lt;h2&gt;權值股表現&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;權值股表現&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%ac%8a%e5%80%bc%e8%82%a1%e8%a1%a8%e7%8f%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;台積電（2330）&lt;/strong&gt;：開盤跳空上揚，最高達978元，大漲26元，成為推動指數走高的主要動力&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;聯發科（2454）&lt;/strong&gt;：上漲3.2%，收於1,235元&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;鴻海（2317）&lt;/strong&gt;：漲幅2.1%，收於152.5元&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;聯電（2303）&lt;/strong&gt;：上漲2.8%，收於70.8元&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;產業板塊表現&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;產業板塊表現&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%94%a2%e6%a5%ad%e6%9d%bf%e5%a1%8a%e8%a1%a8%e7%8f%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI與半導體股&lt;/strong&gt;：領軍反彈，成為市場焦點&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;記憶體相關股&lt;/strong&gt;：受惠於DRAM價格持續上漲預期&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;機器人概念股&lt;/strong&gt;：表現亮眼，隨著自動化需求增加&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;軍工股&lt;/strong&gt;：有短線操作空間，受地緣政治因素影響&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;工具機與原物料股&lt;/strong&gt;：呈現不錯表現&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;航運類股&lt;/strong&gt;：需留意運價下滑風險，表現相對疲軟&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;技術面分析&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;技術面分析&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%8a%80%e8%a1%93%e9%9d%a2%e5%88%86%e6%9e%90&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;指數短線關鍵支撐位在22,000點，壓力位於22,200點。今日成功突破壓力位，顯示市場買盤信心回升。&lt;/p&gt;
+&lt;h2&gt;成交量與外資動向&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;成交量與外資動向&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%88%90%e4%ba%a4%e9%87%8f%e8%88%87%e5%a4%96%e8%b3%87%e5%8b%95%e5%90%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;成交量&lt;/strong&gt;：達到4,321億元，較前一交易日增加15%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;外資&lt;/strong&gt;：今日淨買超156億元，連續第二個交易日呈現買超&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;後市展望&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;後市展望&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%be%8c%e5%b8%82%e5%b1%95%e6%9c%9b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;總體而言，台股今日在權值股帶動下強勢反彈，市場信心回穩。投資人可持續關注：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;外資動向與籌碼面變化&lt;/li&gt;
+&lt;li&gt;電子股及相關題材股的後續表現&lt;/li&gt;
+&lt;li&gt;美國聯準會政策走向對台股的影響&lt;/li&gt;
+&lt;li&gt;中美貿易關係發展對科技產業的衝擊&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;短期操作建議維持穩健為主，可關注基本面良好的AI、半導體及記憶體相關個股，但仍應注意全球經濟不確定性因素的影響。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>從Hexo跳到Hugo：靜態網站生成器的明智選擇</title>
+      <link>//localhost:1313/blog/hexo-to-hugo/</link>
+      <pubDate>Thu, 20 Mar 2025 14:40:54 +0800</pubDate>
+      
+      <guid>//localhost:1313/blog/hexo-to-hugo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;在當今快速發展的網路世界中，靜態網站生成器（Static Site Generator, SSG）成為許多技術部落客和開發者的首選。經過多年使用Hexo後，我決定轉向Hugo，這篇文章將分享我的轉換經驗和選擇邏輯。&lt;/p&gt;
+&lt;p&gt;Hexo的痛點：NPM依賴地獄&lt;/p&gt;
+&lt;p&gt;Hexo是一個基於Node.js的優秀靜態網站生成器，我使用它建立了我的技術部落格並維護了相當長的時間。然而，隨著時間推移，一些問題開始顯現：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;NPM更新帶來的噩夢&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;每次NPM更新後，我都面臨著各種奇怪的錯誤：&lt;/p&gt;
+&lt;p&gt;依賴包版本不兼容&lt;/p&gt;
+&lt;p&gt;插件突然失效&lt;/p&gt;
+&lt;p&gt;node_modules 文件夾膨脹到令人難以置信的大小&lt;/p&gt;
+&lt;p&gt;安裝新套件時出現的各種衝突&lt;/p&gt;
+&lt;p&gt;最令人沮喪的是，有時候只是簡單地執行 npm update 後，整個部落格就無法正常生成，需要花費數小時排查問題。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;連結更新的困擾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;另一個常見問題是連結管理。當我修改文章結構或移動文件時，Hexo並沒有提供一個簡便的方式來確保所有內部連結保持正確。這導致了許多 404 錯誤，對網站的SEO和用戶體驗造成了負面影響。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;構建速度漸漸變慢&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;隨著文章數量增加，Hexo的構建速度也開始下降。每次更新內容後都需要等待相當長的時間才能看到變更。&lt;/p&gt;
+&lt;p&gt;為什麼選擇Hugo？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go語言的穩定性與速度&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;正如同它聲稱的這是&amp;quot;The world&amp;rsquo;s fastest framework for building websites&amp;quot;世界最快的網站架構&lt;/p&gt;
+&lt;p&gt;Hugo是用Go語言開發的，這帶來了顯著的優勢：&lt;/p&gt;
+&lt;p&gt;單一二進制文件：不再需要處理複雜的依賴關係&lt;/p&gt;
+&lt;p&gt;驚人的構建速度：即使有數百篇文章，生成也只需幾秒鐘&lt;/p&gt;
+&lt;p&gt;跨平台兼容性：在Windows、Mac或Linux上都能無縫運行&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;減少外部依賴&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hugo的一個主要優點是它幾乎沒有外部依賴。安裝Hugo後，你得到的是一個完整的、自包含的工具，不需要擔心NPM生態系統的變化會破壞你的網站。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;豐富的模板系統&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hugo提供了強大而靈活的模板系統，使用Go的模板語言。雖然一開始可能需要學習，但它提供了極大的自由度來自定義你的網站。&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;內置的文件管理功能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hugo對內容的組織和管理有非常清晰的概念：&lt;/p&gt;
+&lt;p&gt;內置的分類系統（taxonomies）&lt;/p&gt;
+&lt;p&gt;強大的內容組織方式&lt;/p&gt;
+&lt;p&gt;簡單的短代碼（shortcodes）用於複雜內容&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;即時預覽功能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這是Hugo相較於Hexo的一大優勢。使用 hugo server 運行本地開發環境後，任何修改都能即時反映在瀏覽器中，而無需重啟伺服器。這大大提高了開發效率，讓我可以更專注於內容創作，而不是等待重新載入。&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;活躍的社區和持續發展&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Hugo有一個活躍的社區和持續的開發。新功能定期加入，bug修復迅速，並且有大量的主題和插件可供選擇。&lt;/p&gt;
+&lt;p&gt;遷移過程&lt;/p&gt;
+&lt;p&gt;可能是之前創建Hexo的經驗有幫助，Hugo的創建過程比起來順暢許多&lt;/p&gt;
+&lt;p&gt;原來放在content/blog的md檔會在public裡被創建出來&lt;/p&gt;
+&lt;p&gt;從Hexo遷移到Hugo並不像聽起來那麼困難。以下是我的遷移步驟：&lt;/p&gt;
+&lt;p&gt;安裝Hugo：簡單下載二進制文件或使用包管理器&lt;/p&gt;
+&lt;p&gt;創建新的Hugo站點：hugo new site myblog&lt;/p&gt;
+&lt;p&gt;選擇並安裝主題：Hugo有眾多優秀主題可選&lt;/p&gt;
+&lt;p&gt;轉換內容：&lt;/p&gt;
+&lt;p&gt;Hexo和Hugo都使用Markdown，但Front Matter語法略有不同&lt;/p&gt;
+&lt;p&gt;使用簡單的腳本轉換Front Matter格式&lt;/p&gt;
+&lt;p&gt;調整配置：修改 config.toml（或 config.yaml）以符合需求&lt;/p&gt;
+&lt;p&gt;測試和部署：&lt;/p&gt;
+&lt;p&gt;使用 hugo server 本地測試，即時預覽變更&lt;/p&gt;
+&lt;p&gt;然後部署到網絡&lt;/p&gt;
+&lt;p&gt;結論&lt;/p&gt;
+&lt;p&gt;經過幾個月的使用，我可以確信轉向Hugo是一個明智的選擇。構建速度的提升、維護的簡化和更少的技術問題讓我能夠專注於創作內容，而不是解決技術問題。&lt;/p&gt;
+&lt;p&gt;如果你正在為Hexo的NPM依賴問題和連結管理困擾而苦惱，我強烈建議考慮Hugo作為替代方案。它可能需要一些時間來適應，但長期來看，這個投資是值得的。&lt;/p&gt;
+&lt;p&gt;用Hugo不再擔心每次NPM更新後可能帶來的災難。現在，我可以專注於創造內容，而不是修復不斷出現的技術問題。&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Test</title>

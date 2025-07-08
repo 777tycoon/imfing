@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> – Guide</title>
-    <link>/guide/</link>
-    <description>Recent content in Guide on </description>
+    <title> – Abouts</title>
+    <link>//localhost:1313/guide/</link>
+    <description>Recent content in Abouts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="/guide/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="//localhost:1313/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
       

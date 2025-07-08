@@ -22,4 +22,4 @@ menu:
       weight: 5
       url: "https://github.com/imfing/hextra"
       params:
-        icon: github
+        icon: youtube
