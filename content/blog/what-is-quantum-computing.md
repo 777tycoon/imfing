@@ -2,6 +2,11 @@
 date: '2025-07-08T12:24:53+08:00'
 draft: false
 title: '什麼是量子運算'
+slug: 'what-is-quantum-computing'
+description: ''
+tags: []
+categories: []
+toc: true
 ---
 
 
